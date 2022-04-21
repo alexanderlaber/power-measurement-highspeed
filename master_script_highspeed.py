@@ -3,6 +3,7 @@ import os
 import argparse
 from start_lab import start_lab as start
 from close_lab import close_lab as close
+#python master_script_highspeed.py -d NN_Test2 -s 300 -p 0
 #from adc_measurement import measure as measure_power
 #from adc_measurement import measure_serial as measure_all
 from program_pynq import program as program
